@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @developerajat
-- 👀 I’m interested in Web and Backend Development
+- 👀 Web Development | Database Management
 - 🌱 I’m currently working as Laravel Developer
 - :arrow_down_small: Contact Me
 - :envelope:  rajatks90@gmail.com
