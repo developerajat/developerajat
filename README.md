@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @developerajat
-- 👀 Web Development | Database Management
+- :feelsgood: PHP | Mysql | Javascript
 - 🌱 I’m currently working as Laravel Developer
 - :arrow_down_small: Contact Me
 - :envelope:  rajatks90@gmail.com
