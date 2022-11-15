@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @developerajat
-- :feelsgood: PHP | Mysql | Javascript
+- 👋 Hi, I’m Rajat Kumar
+- :feelsgood: PHP | Laravel | Mysql | Javascript
 - 🌱 I’m currently working as Laravel Developer
 - :arrow_down_small: Contact Me
 - :envelope:  rajatks90@gmail.com
